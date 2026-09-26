@@ -98,21 +98,6 @@ O projeto possui autenticação, controle de acesso baseado em funções, gerenc
 
 🔗 [Ver projeto](https://github.com/RuanVCLima/task-manager)
 
----
-
-### ⚛️ React Router
-
-Projeto desenvolvido para praticar navegação e roteamento em aplicações React.
-
-Inclui páginas, rotas, páginas de fallback e utilização de parâmetros de consulta (query parameters).
-
-**Tecnologias:**
-
-`React` `TypeScript` `React Router` `Vite`
-
-🔗 [Ver projeto](https://github.com/RuanVCLima/react-router)
-
----
 
 ## 💼 Experiência
 
