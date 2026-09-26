@@ -81,7 +81,7 @@ O Rocketlog foi desenvolvido com Node.js e TypeScript, utilizando uma arquitetur
 `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Zod` `JWT` `bcrypt` `Jest` `Supertest` `Docker / Docker Compose`
 
 
-🔗 [Ver projeto](https://github.com/RuanVCLima/refund)
+🔗 [Ver projeto](https://github.com/RuanVCLima/rocketlog)
 
 ---
 
