@@ -14,8 +14,6 @@ Tenho experiência prática com tecnologias como **React, TypeScript, JavaScript
 
 Atualmente, estou focado em evoluir minhas habilidades em arquitetura de aplicações, boas práticas de desenvolvimento, autenticação, bancos de dados e desenvolvimento de APIs.
 
-Também atuo como **Desenvolvedor WordPress voluntário no Movimento Futuro**, contribuindo com o desenvolvimento e customização do site da organização.
-
 ---
 
 ## 🛠️ Tecnologias e ferramentas
