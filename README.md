@@ -99,21 +99,6 @@ O projeto possui autenticação, controle de acesso baseado em funções, gerenc
 🔗 [Ver projeto](https://github.com/RuanVCLima/task-manager)
 
 
-## 💼 Experiência
-
-### 🌱 Desenvolvedor WordPress — Movimento Futuro
-
-Atuação como desenvolvedor voluntário, contribuindo para o desenvolvimento e manutenção da plataforma da organização.
-
-Principais atividades:
-
-- Desenvolvimento e customização de páginas WordPress
-- Desenvolvimento e customização de temas
-- Desenvolvimento e customização de plugins
-- Implementação de novas funcionalidades
-- Correção e manutenção de funcionalidades existentes
-- Melhorias na experiência e estrutura do site
-
 ---
 
 ## 📚 Atualmente estudando
