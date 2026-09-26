@@ -66,19 +66,20 @@ Jogo de palavras desenvolvido com React e TypeScript, utilizando componentes reu
 
 `React` `TypeScript` `Vite` `CSS Modules`
 
-🔗 [Ver projeto](https://github.com/RuanVCLima/advinha)
+🔗 [Ver projeto](https://github.com/RuanVCLima/Adivinha-a-Palavra)
 
 ---
 
-### 💰 Refund API
+### 🚀 Rocketlog
 
-API REST para gerenciamento de solicitações de reembolso.
+API REST para gerenciamento e acompanhamento de entregas de encomendas.
 
-O projeto trabalha com autenticação, usuários, solicitações de reembolso, validação de dados e persistência de informações.
+O Rocketlog foi desenvolvido com Node.js e TypeScript, utilizando uma arquitetura organizada em controllers, routes e middlewares. A aplicação permite cadastrar usuários, autenticar usuários, criar entregas, atualizar o status das entregas e registrar o histórico de movimentações.
 
 **Tecnologias:**
 
-`Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Zod`
+`Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Zod` `JWT` `bcrypt` `Jest` `Supertest` `Docker / Docker Compose`
+
 
 🔗 [Ver projeto](https://github.com/RuanVCLima/refund)
 
@@ -93,6 +94,7 @@ O projeto possui autenticação, controle de acesso baseado em funções, gerenc
 **Tecnologias:**
 
 `Node.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `JWT` `Zod`
+
 
 🔗 [Ver projeto](https://github.com/RuanVCLima/task-manager)
 
